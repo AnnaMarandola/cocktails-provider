@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: indigo;
+}
+
+.Drink {
+    border: solid #ffee05 30px;
+    border-radius: 30%;
+    border-top-color: hotpink;
+    width: 35%;
+}
+
+.Button {
+    width: 150px;
+    font-size: 15px;
+    color: #f5f238;
+    background-color: indigo;
+    border-radius: 10px;
+    border: solid hotpink 2px;
+}
+
+.Change {
+    padding: 30px;
+}
+
+h2 {
+    color: hotpink;
+    font-size: 30px;
+    border-color: #ffee05;
+    padding: 20px;
+}
+
+h1 {
+    color: hotpink;
+    font-size: 40px;
+    padding: 20px;
+}
